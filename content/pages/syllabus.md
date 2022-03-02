@@ -25,7 +25,7 @@ High level graduate students with sufficient training to participate in sophisti
 
 ### Evaluation
 
-Course grades will be based on the completion of a final paper. See {{< resource_link d69ca796-5469-7481-a3fd-e9c0d8d0dc32 "assignments" >}} for more information.
+Course grades will be based on the completion of a final paper. See {{% resource_link d69ca796-5469-7481-a3fd-e9c0d8d0dc32 "assignments" %}} for more information.
 
 Recommended Reference Texts
 ---------------------------
