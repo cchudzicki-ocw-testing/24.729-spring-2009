@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the final paper of the course, paper
+  presentations, and student-led class discussions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

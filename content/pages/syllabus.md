@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course philosophy and goals,
+  meeting times, requirements, recommended reference texts, and the schedule of lecture
+  topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
